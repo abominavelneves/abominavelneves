@@ -1,5 +1,5 @@
- <h2 align="center"> Hey, I'm Isaac 👨🏽‍🔬
- <h3 align="center"> Electrical Engineering Student from Brazil 🇧🇷 
+ <h1 align="center"> Hey, I'm Isaac 👨🏽‍🔬
+ <h2 align="center"> Electrical Engineering Student from Brazil 🇧🇷 
 
 ### About me:
 - 💻: I'm interested in learning more about Data Science.
