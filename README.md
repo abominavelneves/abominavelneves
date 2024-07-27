@@ -15,6 +15,8 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api?username=abominavelneves&theme=dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abominavelneves)](https://github.com/abominavelneves/github-readme-stats)
 
+### Badges:
+[<img src="<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d2dbc44c-5c27-4797-899b-8fd096316285" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>" height="50"></a>](https://www.credly.com/badges/d2dbc44c-5c27-4797-899b-8fd096316285/public_url)
 ### Social Media:
 [<img src="https://png.pngtree.com/png-clipart/20190613/original/pngtree-instagram-logo-icon-png-image_3588821.jpg" height="50"></a>](https://www.instagram.com/isaacsneves/?next=%2F)
 
