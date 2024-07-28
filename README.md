@@ -20,5 +20,5 @@
 [<img src="https://skillsbuild.org/_next/image?url=https%3A%2F%2Fskillsbuild.org%2Fmedia%2F2024%2F04%2FGetting_Started_With_Artificial_Intelligence_Badge.png&w=640&q=75" height="100"></a>](https://www.credly.com/badges/bfead442-2e27-45d3-9cf7-8720a12f2d0b/public_url)
 
 ### Social Media:
-[<img src="https://www.pngkit.com/png/full/163-1633614_instagram-logo-icon-social-media-icon-png-and.png" height="50"></a>](https://www.instagram.com/isaacsneves/?next=%2F)
+[<img src="https://www.pngkit.com/png/full/163-1633614_instagram-logo-icon-social-media-icon-png-and.png" width="75" height="25"></a>](https://www.instagram.com/isaacsneves/?next=%2F)
 
