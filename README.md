@@ -48,16 +48,7 @@ Além da área de tecnologia, mantenho projetos voltados à educação em matem�
 
 ---
 
----
 
-## 📈 Estatísticas
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abominavelneves&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abominavelneves&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 ## 🌐 Contato
 
